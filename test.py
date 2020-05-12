@@ -1,4 +1,4 @@
 def test():
-    return "Test" * 5
+    return "Test" * 10
 
 print(test())
