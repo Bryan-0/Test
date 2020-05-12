@@ -1,4 +1,4 @@
 def test():
-	pass
+	return "Test" * 5
 
-test()
+print(test())
