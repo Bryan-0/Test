@@ -5,3 +5,4 @@ def brayan():
 	return "Brayan Ayala"
 
 print(test())
+print(brayan())
